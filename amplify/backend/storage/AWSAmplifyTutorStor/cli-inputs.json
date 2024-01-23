@@ -1,0 +1,14 @@
+{
+  "resourceName": "AWSAmplifyTutorStor",
+  "policyUUID": "3b26739d",
+  "bucketName": "awsamplifystoragebucket",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
